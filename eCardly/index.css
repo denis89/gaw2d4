@@ -10,15 +10,17 @@ background-color:
 
 div {
   background-color: white;
-  margin-right: 360px;
+  margin-right: 50%; /*360px */
+  position:relative;
+  left:10%;
   text-align: center;
 }
 
 #aside{
-  margin-right: 550px;
+  margin-right: 50%;  /*550px */
   position: relative;
-  bottom: 1147px;
-  left:600px;
+  bottom: 1215px;
+  left:400px;
   float: right;
 }
 
